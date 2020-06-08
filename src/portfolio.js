@@ -6,7 +6,7 @@ function Name(props)
     return (
     <div> My name is {props.name}
     <br/>
-    <img src="/images/awais.jpg" alt="awais ahmad image"></img>
+    <img src="/images/awais.jpg" alt="awais ahmad image"/>
     <h1>Assignment by Awais Ahmad
        <b> Batch 35 </b>
     </h1>
